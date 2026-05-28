@@ -24,7 +24,8 @@ Cpp-Programming-Exercises/
 ├── ticket_office.cpp
 ├── Transport.cpp
 ├── LICENSE
-└── README.md
+├── README.md
+└── CITATION.cff
 ```
 
 
@@ -119,16 +120,6 @@ g++ Queue_Management_2.cpp -o queue_management_2
 These programs were developed as study exercises.
 They are mainly intended for educational purposes and may not be optimized for production use.
 
-The code is kept close to its original form to preserve the learning context, with only minor formatting and documentation improvements where necessary.
-
-For cleaner file naming and easier command-line usage, the queue management files are named:
-
-```text
-Queue_Management_1.cpp
-Queue_Management_2.cpp
-```
-
-instead of using the `#` character in the filenames.
 
 ## Citation
 
@@ -144,7 +135,7 @@ If you use or refer to this repository, please cite it as:
 }
 ```
 
-You may also cite the repository using the `CITATION.cff` file if included.
+You may also cite the repository using the `CITATION.cff` file.
 
 ## Author
 
