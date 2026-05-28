@@ -1,5 +1,9 @@
 # C++ Programming Exercises
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
+[![Educational](https://img.shields.io/badge/Purpose-Educational-lightgrey.svg)]()
+
 A collection of beginner-friendly C++ programming exercises developed during my studies.
 The repository includes small programs that cover fundamental programming concepts such as loops, arrays, functions, classes, queues, operator overloading, and simple problem-solving.
 
@@ -23,6 +27,7 @@ Cpp-Programming-Exercises/
 ├── LICENSE
 └── README.md
 ```
+
 
 ## Topics Covered
 
@@ -114,6 +119,17 @@ g++ Queue_Management_2.cpp -o queue_management_2
 
 These programs were developed as study exercises.
 They are mainly intended for educational purposes and may not be optimized for production use.
+
+The code is kept close to its original form to preserve the learning context, with only minor formatting and documentation improvements where necessary.
+
+For cleaner file naming and easier command-line usage, the queue management files are named:
+
+```text
+Queue_Management_1.cpp
+Queue_Management_2.cpp
+```
+
+instead of using the `#` character in the filenames.
 
 ## Citation
 
