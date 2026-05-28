@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
-[![Educational](https://img.shields.io/badge/Purpose-Educational-lightgrey.svg)]()
 
 A collection of beginner-friendly C++ programming exercises developed during my studies.
 The repository includes small programs that cover fundamental programming concepts such as loops, arrays, functions, classes, queues, operator overloading, and simple problem-solving.
