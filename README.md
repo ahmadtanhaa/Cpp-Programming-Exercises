@@ -16,7 +16,7 @@ The main purpose of this repository is to document and share these exercises in 
 ## Repository Structure
 
 ```text
-Cpp-Programming-Exercises/
+CPPPE/
 ├── countdown_Beep.cpp
 ├── Palindrome.cpp
 ├── Queue_Management_1.cpp
@@ -126,11 +126,11 @@ They are mainly intended for educational purposes and may not be optimized for p
 If you use or refer to this repository, please cite it as:
 
 ```bibtex
-@misc{tanha_cpp_programming_exercises_2026,
+@misc{Tanha_CPPPE_2026,
   author       = {Tanha, Ahmad},
   title        = {C++ Programming Exercises},
   year         = {2026},
-  howpublished = {\url{https://github.com/ahmadtanhaa/Cpp-Programming-Exercises}},
+  howpublished = {\url{https://github.com/ahmadtanhaa/CPPPE}},
   note         = {Educational C++ exercises covering loops, functions, queues, classes, operator overloading, and basic problem solving}
 }
 ```
