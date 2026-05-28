@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or refer to this repository, please cite it as below."
+title: "C++ Programming Exercises"
+authors:
+  - family-names: "Tanha"
+    given-names: "Ahmad"
+year: 2026
+repository-code: "https://github.com/ahmadtanhaa/Cpp-Programming-Exercises"
+license: "MIT"
+keywords:
+  - C++
+  - programming exercises
+  - beginner programming
+  - object-oriented programming
+  - queues
+  - educational code
+abstract: "A collection of beginner-friendly C++ programming exercises covering loops, functions, queues, classes, operator overloading, and basic problem solving."
